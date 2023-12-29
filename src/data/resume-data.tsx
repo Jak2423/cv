@@ -13,7 +13,7 @@ export const RESUME_DATA = {
   summary:
     "I am currently student at National University of Mongolia. I describe myself as a passionate developer who loves coding, open source, and the web platform.",
   avatarUrl: "https://avatars.githubusercontent.com/u/95999268?v=4",
-  personalWebsiteUrl: "https://jak-dev.vercel.app/",
+  personalWebsiteUrl: "https://javkhlan.vercel.app/",
   contact: {
     email: "javhlan0420@gmail.com",
     tel: "+97688242310",
